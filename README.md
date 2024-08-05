@@ -10,14 +10,13 @@ Currently, two official plugins are available:
 
 # Application de gestion de contacts.
 
- 
-## Initialisation du Projet
+## Initialisation du Projet :
   - Création d’une nouvelle application React
 
-## Composant
-  -  Création d'un composant ContactList qui affiche une liste de contacts.
-  -  Création d'un composant ContactForm pour ajouter de nouveaux contacts.
-  -  Création d'un composant Contact qui affiche les informations d’un contact (nom et email).
+## Composants :
+  -  ContactList, qui affiche une liste de contacts.
+  -  ContactForm, pour ajouter de nouveaux contacts.
+  -  Contact, qui affiche les informations d’un contact (nom et email).
 
 ## Fonctionnalités :
   -  Utilisation du hook useState pour gérer l’état des contacts.
