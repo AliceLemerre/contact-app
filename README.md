@@ -8,18 +8,18 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-#Application de gestion de contacts.
+# Application de gestion de contacts.
 
  
-##Initialisation du Projet
+## Initialisation du Projet
   - Création d’une nouvelle application React
 
-##Composant
+## Composant
   -  Création d'un composant ContactList qui affiche une liste de contacts.
   -  Création d'un composant ContactForm pour ajouter de nouveaux contacts.
   -  Création d'un composant Contact qui affiche les informations d’un contact (nom et email).
 
-##Fonctionnalités :
+## Fonctionnalités :
   -  Utilisation du hook useState pour gérer l’état des contacts.
   -  Permettre l’ajout de nouveaux contacts via le composant ContactForm.
   -  Affichage de la liste des contacts dans le composant ContactList.
